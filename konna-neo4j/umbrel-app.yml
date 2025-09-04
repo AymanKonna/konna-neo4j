@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: konna-neo4j
+name: Neo4J
+tagline: Neo4J s a high performance graph store with all the features expected of a mature and robust database.
+icon: https://i.postimg.cc/9MP2SjsC/New4j.png
+category: Developer
+version: "5.26.12"
+port: 7474
+description: >-
+  Neo4J is a high performance graph store with all the features expected of a mature and robust database.
+
+developer: Emil Eifrem
+website: https://neo4j.com/
+submitter: Konna
+submission: https://github.com/getumbrel/umbrel-apps
+repo: https://neo4j.com/
+support: https://neo4j.com/
+gallery:
+  - https://i.postimg.cc/9MP2SjsC/New4j.png
+releaseNotes: >-
+  Neo4J 5.26.12 running on Umbrel.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
